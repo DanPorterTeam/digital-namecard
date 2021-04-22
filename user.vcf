@@ -7,8 +7,8 @@ ORG:ERA Brokers Consolidated;
 TITLE:Realtor
 EMAIL;type=INTERNET;type=WORK;type=pref:theporterteam@theporterteam.com
 TEL;type=WORK;type=VOICE:435-229-3630
-item1.ADR;type=WORK;type=pref:;;10 N 100 W;;;84737;Hurricane 
-item1.X-ABADR:UT
+item1.ADR;type=WORK;type=pref:;;10 N 100 W;;;84737;Hurricane UT
+item1.X-ABADR:sg
 item2.URL;type=pref:www.theporterteam.com
 item2.X-ABLabel:_$!<HomePage>!$_
 END:VCARD
